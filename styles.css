@@ -1,0 +1,19 @@
+/* Global styles*/
+body {background-color: #ffffff; 
+ font-family:Arial,Helvetica; font-size:90%}
+h1 {color:#191970; text-align:center} 
+h2 {color:#191970; text-align:center}
+ /*Layout*/
+ .header {}
+ .content {}
+ .leftside {float:left; width:20%}
+ .main {color:#191970; float:right; width:75%}
+ /*Navigation*/
+.menu2 {list-style:none; margin:0; padding:0}
+.menu2 li {border:1px solid blue; margin-bottom:10px; padding:5px; border-radius:10px}
+.menu2 a {text-decoration:none; color:#191970}
+/*Filling*/
+img[align=left] {margin-right:20px} 
+img[align=right] {margin-left:20px} 
+
+ 
