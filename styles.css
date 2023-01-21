@@ -15,5 +15,17 @@ h2 {color:#191970; text-align:center}
 /*Filling*/
 img[align=left] {margin-right:20px} 
 img[align=right] {margin-left:20px} 
+/* внешние границы таблицы серого цвета толщиной 1px */
+table {
+   border: 1px solid grey;
+}
+/* границы ячеек первого ряда таблицы */
+th {
+   border: 1px solid grey;
+}
+/* границы ячеек тела таблицы */
+td {
+   border: 1px solid grey;
+}
 
  
